@@ -9,6 +9,11 @@ $(document).ready(function() {
       "<strong>Quel est le nom de l'actrice espagnole qui a joué pour Almodovar mais aussi dans Clem?</strong> <br><br>A) Victoria Abril - B) Bruno Mars",
       "<strong>Qui meurt de plus en plus chaque jour?</strong> <br><br>A) Les forêts - B) Les banques",
       "<strong>Qu'est-ce qui est le plus facile à trouver?</strong> <br><br>A) Le sens de la vie - B) Le sens d'une clé USB",
+      "<strong>Quel est le numéro du département du Rhône?</strong> <br><br>A) Le 69 - B) La levrette",
+      "<strong>Comment s'appelait ce roi des Francs couronné en 800?</strong> <br><br>A) Charlemagne - B) Charles, prends ton temps",
+      "<strong>Conor Mcgregor, pratiquant d'art martial, est un champion de...?</strong> <br><br>A) MMA - B) MAAF",
+      "<strong>Comment se dégustent les huitres?</strong> <br><br>A) Par six - B) Partouze",
+      "<strong>Terminez cette expression : Les bons comptes font...?</strong> <br><br>A) Les bons amis - B) Les Balkany",
     ];
 
     var randomCompliments = Math.floor(Math.random() * compliments.length);
